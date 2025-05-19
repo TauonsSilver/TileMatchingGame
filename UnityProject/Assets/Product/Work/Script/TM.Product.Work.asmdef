@@ -1,0 +1,17 @@
+{
+    "name": "TM.Product.Work",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aeca832c8ec03f848b7a268c5d331bdb",
+        "GUID:74e6af412c52fc347ab2a3f67231f20c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
